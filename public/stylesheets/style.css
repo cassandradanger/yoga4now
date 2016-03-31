@@ -1,0 +1,22 @@
+body {
+  padding: 50px;
+  /*background-image: url("/images/wood.jpg");*/
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+
+a {
+  color: #00B7FF;
+}
+
+.navHorz{
+  list-style-type: none;
+}
+
+#navHorz{
+  margin: 0 auto;
+}
+
+.navHorz li{
+  float: left;
+}

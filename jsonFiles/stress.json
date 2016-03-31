@@ -1,0 +1,49 @@
+{
+  "stress": [
+    {
+      "name":"Bharadvaja's Twist",
+      "description": "Description to come",
+      "image": "/images/stress/bharadvajas_twist.jpg"
+    },
+    {
+      "name":"Boat Pose",
+      "description": "Description to come",
+      "image": "/images/stress/boat_pose.jpg"
+    },
+    {
+      "name":"Child's Pose",
+      "description": "Bring your hands beneath your shoulders and knees beneath your hips. Inhale as you drop your belly button toward the earth and lift your heart and hips to the sky into Bitilasana (Cow Pose). Spread across your shoulders and sitting bones. Exhale as you round your upper back toward the sky, dropping your gaze to your navel and pressing your hands and feet into the earth in Marjaryasana (Cat Pose). Continue for 10 rounds.Breathing deeply in these poses will massage your organs as you alternately compress and lengthen the intestines, bringing fresh blood to the epithelial cells, which are responsible for healthy gut function.",
+      "image": "/images/stress/childs_pose.jpg"
+    },
+    {
+      "name":"Cobra",
+      "description": "Description to come",
+      "image": "/images/stress/cobra.jpg"
+    },
+    {
+      "name":"Corpse Pose",
+      "description": "Description to come",
+      "image": "/images/stress/corpse_pose.jpg"
+    },
+    {
+      "name":"Salutation Seal",
+      "description": "Description to come",
+      "image": "/images/stress/salutation_seal.jpg"
+    },
+    {
+      "name":"Seated Forward Bend",
+      "description": "Description to come",
+      "image": "/images/stress/seated_forward_bend.jpg"
+    },
+    {
+      "name":"Standing Forward Bend",
+      "description": "Description to come",
+      "image": "/images/stress/standing_forward_bend.jpg"
+    },
+    {
+      "name":"Supported Shoulder Stand",
+      "description": "Description to come",
+      "image": "/images/stress/supported_shoulder_stand.jpg"
+    }
+  ]
+}

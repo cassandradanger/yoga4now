@@ -1,0 +1,49 @@
+{
+  "digest": [
+    {
+      "name":"Ardha Pawamuktasana",
+      "description": "Description to come",
+      "image": "/images/digest/Ardha_Pawamuktasana.jpg"
+    },
+    {
+      "name":"Bridge Pose",
+      "description": "Description to come",
+      "image": "/images/digest/bridge_pose.jpg"
+    },
+    {
+      "name":"Cat & Cow Poses",
+      "description": "Bring your hands beneath your shoulders and knees beneath your hips. Inhale as you drop your belly button toward the earth and lift your heart and hips to the sky into Bitilasana (Cow Pose). Spread across your shoulders and sitting bones. Exhale as you round your upper back toward the sky, dropping your gaze to your navel and pressing your hands and feet into the earth in Marjaryasana (Cat Pose). Continue for 10 rounds.Breathing deeply in these poses will massage your organs as you alternately compress and lengthen the intestines, bringing fresh blood to the epithelial cells, which are responsible for healthy gut function.",
+      "image": "/images/digest/cat_cow.jpg"
+    },
+    {
+      "name":"Corpse Pose",
+      "description": "Description to come",
+      "image": "/images/digest/corpse_pose.jpg"
+    },
+    {
+      "name":"Downward Facing Dog",
+      "description": "Description to come",
+      "image": "/images/digest/downward_facing_dog.jpg"
+    },
+    {
+      "name":"Extended Puppy Pose",
+      "description": "Description to come",
+      "image": "/images/digest/extended_puppy_pose.jpg"
+    },
+    {
+      "name":"Revolved Triangle Pose",
+      "description": "Description to come",
+      "image": "/images/digest/revolved_triangle_pose.jpg"
+    },
+    {
+      "name":"Supine Twist",
+      "description": "Description to come",
+      "image": "/images/digest/supine_twist.jpg"
+    },
+    {
+      "name":"Triangle Pose",
+      "description": "Description to come",
+      "image": "/images/digest/triangle_pose.jpg"
+    }
+  ]
+}

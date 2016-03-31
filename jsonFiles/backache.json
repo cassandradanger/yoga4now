@@ -1,0 +1,49 @@
+{
+  "backache": [
+    {
+      "name":"Camel",
+      "description": "Description to come",
+      "image": "/images/backache/camel.jpg"
+    },
+    {
+      "name":"Cat & Cow Pose",
+      "description": "Description to come",
+      "image": "/images/backache/cat_cow.jpg"
+    },
+    {
+      "name":"Eagle",
+      "description": "description to come",
+      "image": "/images/backache/eagle.jpg"
+    },
+    {
+      "name":"Half Moon",
+      "description": "Description to come",
+      "image": "/images/backache/half_moon.jpg"
+    },
+    {
+      "name":"Locust",
+      "description": "Description to come",
+      "image": "/images/backache/locust_pose.jpg"
+    },
+    {
+      "name":"Marichi's Pose",
+      "description": "Description to come",
+      "image": "/images/backache/marichis_pose.jpg"
+    },
+    {
+      "name":"Revolved Triangle",
+      "description": "Description to come",
+      "image": "/images/backache/revolved_triangle.jpg"
+    },
+    {
+      "name":"Upward Salute",
+      "description": "Description to come",
+      "image": "/images/backache/upward_salute.jpg"
+    },
+    {
+      "name":"Legs up a Wall Pose",
+      "description": "Description to come",
+      "image": "/images/backache/legs_up.jpg"
+    }
+  ]
+}
