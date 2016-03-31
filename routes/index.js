@@ -8,14 +8,19 @@ router.get('/digest',function(request,response){
   response.sendFile(path.join(__dirname,"../jsonFiles/digest.json"));
 });
 
+router.get('/period',function(request,response){
+  console.log('hit period route');
+  response.sendFile(path.join(__dirname,"../jsonFiles/period.json"));
+});
+
 router.get('/stress',function(request,response){
   console.log('hit stress route');
   response.sendFile(path.join(__dirname,"../jsonFiles/stress.json"));
 });
 
-router.get('/evening',function(request,response){
-  console.log('hit evening route');
-  response.sendFile(path.join(__dirname,"../jsonFiles/evening.json"));
+router.get('/calming',function(request,response){
+  console.log('hit calming route');
+  response.sendFile(path.join(__dirname,"../jsonFiles/calming.json"));
 });
 
 router.get('/backache',function(request,response){

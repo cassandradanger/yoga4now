@@ -1,0 +1,49 @@
+{
+  "period": [
+    {
+      "name":"Camel",
+      "description": "Description to come",
+      "image": "/images/period/camel.jpg"
+    },
+    {
+      "name":"Bound Angle",
+      "description": "Description to come",
+      "image": "/images/period/bound_angle.jpg"
+    },
+    {
+      "name":"Head to Knee Forward Bend",
+      "description": "description to come",
+      "image": "/images/period/head_to_knee.jpg"
+    },
+    {
+      "name":"Lotus Pose",
+      "description": "Description to come",
+      "image": "/images/period/lotus_pose.jpg"
+    },
+    {
+      "name":"Downward Facing Dog",
+      "description": "Description to come",
+      "image": "/images/period/down_dog.jpg"
+    },
+    {
+      "name":"Marichi's Pose",
+      "description": "Description to come",
+      "image": "/images/period/marichis_pose.jpg"
+    },
+    {
+      "name":"Noose Pose",
+      "description": "Description to come",
+      "image": "/images/period/noose_pose.jpg"
+    },
+    {
+      "name":"Reclining Bound Angle Pose",
+      "description": "Description to come",
+      "image": "/images/period/reclining_bound_angle.jpg"
+    },
+    {
+      "name":"Reclining Hero",
+      "description": "Description to come",
+      "image": "/images/period/reclining_hero.jpg"
+    }
+  ]
+}

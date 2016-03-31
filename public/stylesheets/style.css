@@ -20,3 +20,9 @@ a {
 .navHorz li{
   float: left;
 }
+
+#frontBox{
+  border: 1px solid black;
+  margin-top: 100px;
+  padding-bottom: 10px;
+}

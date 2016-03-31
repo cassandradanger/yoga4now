@@ -22,19 +22,19 @@ myApp.config(['$routeProvider', function($routeProvider){
         }).
         when('/period', {
             templateUrl: "/views/routes/period.html",
-            //controller: 'EditController'
+            controller: 'PeriodController'
         }).
         when('/digest', {
             templateUrl: "/views/routes/digest.html",
             controller: 'DigestController'
         }).
-        when('/morning', {
-            templateUrl: "/views/routes/morning.html",
+        when('/energy', {
+            templateUrl: "/views/routes/energy.html",
             //controller: 'EntryController'
         }).
-        when('/evening', {
-            templateUrl: "/views/routes/evening.html",
-            controller: 'EveningController'
+        when('/calming', {
+            templateUrl: "/views/routes/calming.html",
+            controller: 'CalmingController'
         }).
         otherwise({
             templateUrl: "/views/routes/frontpage.html"
